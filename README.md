@@ -5,6 +5,8 @@ bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ## Installation
 
+https://github.com/mrvknr/kodluyoruzilkrepooo.git
+
 ## Usage
 
 
